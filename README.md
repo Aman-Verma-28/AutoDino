@@ -15,6 +15,9 @@ An automated bot that plays the Chrome Dinosaur game using computer vision and k
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Contact](#contact)
+- [Author](#author)
 
 ## Overview
 
@@ -318,6 +321,12 @@ This project is open source and available for educational purposes. Please note 
 ## Contact
 
 For questions, suggestions, or issues, please open an issue on the GitHub repository.
+
+## Author
+
+**Aman Verma**
+- GitHub: [@Aman-Verma-28](https://github.com/Aman-Verma-28)
+- Repository: [AutoDino](https://github.com/Aman-Verma-28/AutoDino)
 
 ---
 
