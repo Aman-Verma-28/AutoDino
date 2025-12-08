@@ -1,0 +1,9 @@
+rules:
+  - name: readme-author-attribution
+    trigger: >-
+      when creating or updating README files, especially for open source
+      projects
+    solution: >-
+      include author details and attribution information in the README. This
+      should include the author's name and relevant contact or profile
+      information to properly credit the work.
