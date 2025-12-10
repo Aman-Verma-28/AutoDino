@@ -1,0 +1,10 @@
+rules:
+  - name: preserve-necessary-imports
+    trigger: >-
+      when removing unused imports from Python files, ensure that imports are
+      actually unused before removing them. Even if an import appears unused in
+      the current file, it may be necessary for the code to function correctly.
+    solution: >-
+      verify that the import is truly unused by checking if any of its members
+      are referenced in the code, either directly or indirectly. If unsure, keep
+      the import as is.
