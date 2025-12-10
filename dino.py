@@ -1,5 +1,5 @@
 import pyautogui
-from PIL import ImageGrab
+from PIL import Image, ImageGrab
 import time
 
 def hit(key):
