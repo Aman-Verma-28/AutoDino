@@ -1,9 +1,30 @@
 # AutoDino 🦖🎮
 
+[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/Aman-Verma-28/AutoDino)
+
 An automated bot that plays the Chrome Dinosaur game using computer vision and keyboard automation. This Python script captures the screen in real-time, detects obstacles, and automatically makes the dinosaur jump or duck to avoid them.
+
+## Quick Start
+
+Get up and running in under a minute:
+
+```bash
+# Clone and install
+git clone https://github.com/Aman-Verma-28/AutoDino.git
+cd AutoDino
+pip install pyautogui Pillow
+
+# Open chrome://dino in Chrome, then run:
+python dino.py
+```
+
+Click on the Chrome window within 5 seconds after running the script, and watch the bot play!
 
 ## Table of Contents
 
+- [Quick Start](#quick-start)
 - [Overview](#overview)
 - [Features](#features)
 - [How It Works](#how-it-works)
