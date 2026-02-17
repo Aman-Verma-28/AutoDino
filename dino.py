@@ -1,6 +1,7 @@
-import pyautogui
-from PIL import Image, ImageGrab
 import time
+
+import pyautogui
+from PIL import ImageGrab
 
 def hit(key):
     pyautogui.keyDown(key)
