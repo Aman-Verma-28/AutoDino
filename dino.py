@@ -1,3 +1,4 @@
+# AutoDino - Automated Chrome Dinosaur Game Bot
 import pyautogui
 from PIL import Image, ImageGrab
 import time
