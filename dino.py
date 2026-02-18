@@ -2,6 +2,8 @@ import pyautogui
 from PIL import Image, ImageGrab
 import time
 
+# Dummy change for testing PR workflow
+
 def hit(key):
     pyautogui.keyDown(key)
     return
